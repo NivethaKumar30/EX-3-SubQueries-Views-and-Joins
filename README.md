@@ -214,8 +214,8 @@ OUTPUT FOR RIGHT JOIN:
 
 ![Screenshot 2023-10-01 203041](https://github.com/NivethaKumar30/EX-3-SubQueries-Views-and-Joins/assets/119559844/e93688d5-5393-463d-9737-3ec2b043f084)
 
-
-
+RESULT:
+Thus,the employee table has created and joins been executed .
 
 
 
